@@ -28,7 +28,7 @@ pipeline {
                     sh """
                         echo "Building stage"
                         echo $COURSE
-                        sleep 10
+                        sleep 1000
                         env
 
                         echo "Hello ${params.PERSON}"
