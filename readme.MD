@@ -29,7 +29,7 @@ sudo systemctl enable jenkins
 #### Plugins:
 * Stage view
 
-#### Credentials
+#### Credentials:
 *  create Credentials username and pwd for agent instance at manage jenkins
 
 #### Master Agent Architecture
